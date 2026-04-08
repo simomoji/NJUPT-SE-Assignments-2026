@@ -1,5 +1,5 @@
 # NJUPT SE Lab 1
-# Author: XinYue Zhao
+# Author: Wan Lin
 # Date: April 2026
 
 def quick_sort(arr):
