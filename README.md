@@ -1,19 +1,20 @@
-# NJUPT Software Engineering Assignments (Spring 2026)
+# NJTECH Software Engineering Coursework (Spring 2026)
 
-This repository contains my personal lab assignments and coursework for the Software Engineering program at **Nanjing University of Posts and Telecommunications (NJUPT)**.
+This repository contains my personal lab assignments and coursework for the Software Engineering program at **Nanjing Tech University (NJTECH)**.
 
 ## 📚 Course Information
+- **Institution:** Nanjing Tech University (NJTECH)
 - **Major:** Software Engineering (Undergraduate)
 - **Semester:** Spring 2026 (Sophomore Year)
-- **Student:** XinYue Zhao
+- **Student:** Lin Wan
 
 ## 📂 Repository Structure
 
 ### Lab 1: Advanced Data Structures
-Implementations of various sorting algorithms and tree traversals. Focus on time/space complexity analysis.
+Implementations of various sorting algorithms (Quick Sort, Merge Sort) and tree traversals in Python. Focus on time and space complexity analysis for undergraduate SE coursework.
 
 ### Lab 2: Introduction to Containerization
-Basic exercises using Docker to containerize a simple Node.js / Python application.
+Practical exercises using Docker to containerize simple microservices. Includes Dockerfile configurations and basic orchestration tests for Spring 2026 labs.
 
 ---
-*Note: This repository is for personal academic tracking and backup purposes. Please refer to the official NJUPT Academic Affairs Office guidelines regarding code sharing and academic integrity.*
+*Note: This repository is for personal academic tracking and backup purposes. Please refer to the official **NJTECH Academic Affairs Office** guidelines regarding code sharing and academic integrity.*
